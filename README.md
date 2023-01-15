@@ -1,4 +1,5 @@
 # email-using--python
+## smtplib-EmailMessage
 I only wanted to automate spaming my friend's inbox. So i learnt how to email via python. I never actually spam though. Or did I?
 
 # the code:
